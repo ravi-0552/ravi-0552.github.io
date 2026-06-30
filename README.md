@@ -123,8 +123,11 @@ cut
 
 ## Contributors
 
+- Sai Vamshini
+- Srija
+- Rohith
 - Ravi Chandra Raaj
-- Team Members
+- Sandeep
 
 ---
 
